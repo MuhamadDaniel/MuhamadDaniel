@@ -1,7 +1,7 @@
-- 👋 Hi, my name is Muhamad Danieel
+- 👋 Hi, my name is Muhamad Daniel
 - 👀 I’m interested in Software Development
-- 🧑🏻‍💻 I’m currently learning Web Dev
-- 📚 I’m am pursuing my degree in Computer Science majoring in Software Development
+- 🧑🏻‍💻 I’m currently learning roadmap as Fullstack Developer
+- 📚 I’m now pursuing my degree in Computer Science majoring in Software Development
 - 📫 Reach me at: muhamad.daniel902@gmail.com
   
 
